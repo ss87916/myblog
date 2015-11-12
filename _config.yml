@@ -2,13 +2,12 @@
 title: Deep Breathing
 email: lucas_shao@126.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  保持空灵之心，无形，无法，就像水一样。水倒入杯中就成了杯子的形状，倒入瓶中就成为瓶子的形状，倒入茶壶中就成为茶壶的形状。而水能载舟亦能覆舟。像水一样吧，我的朋友。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://shaoshuai.online" # the base hostname & protocol for your site
+timezone: Asia/Shanghai
 twitter_username: shaoshuai
-github_username:  shaoshuai
+github_username:  ss87916
 
 # Build settings
 markdown: kramdown
